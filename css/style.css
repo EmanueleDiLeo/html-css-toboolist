@@ -12,12 +12,21 @@ body{
   background-color: #f6f8f9;
 }
 
+button{
+  padding: 5px 10px;
+  border-radius: 5%;
+}
+
+hr{
+  color: #f6f8f9;
+}
+
 
 /* **************************** HEADER ************************************************* */
 
 header{
-  height: 100px;
-  padding: 20px;
+  height: 70px;
+  padding: 10px 20px;
   background-color: white;
   
 }
@@ -33,4 +42,28 @@ header img{
 
 /* **************************** MAIN ************************************************** */
 
+main{
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+  
+.container-main{
+  margin-top: 50px;
+  padding: 20px 50px;
+  background-color: white;
+  border-radius: 1%;
+}
+
+.button-task{
+  color: white;
+  background-color: #47adf1;
+  border-color: #47adf1;
+}
+
+.button-section{
+  color: #d2d6db;
+  background-color: white;
+  border-color: #d2d6db;
+}
 
