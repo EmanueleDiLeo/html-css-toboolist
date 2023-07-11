@@ -15,11 +15,19 @@ body{
 button{
   padding: 5px 10px;
   border-radius: 5%;
+  margin: 20px 50px;
 }
 
 hr{
-  color: #f6f8f9;
+  margin-top: 30px;
+  border: 1px solid #f6f8f9;
 }
+
+ul{
+  margin: 20px 50px;
+  list-style: none;
+}
+
 
 
 /* **************************** HEADER ************************************************* */
@@ -50,7 +58,7 @@ main{
   
 .container-main{
   margin-top: 50px;
-  padding: 20px 50px;
+  /* padding: 20px 50px; */
   background-color: white;
   border-radius: 1%;
 }
@@ -66,4 +74,5 @@ main{
   background-color: white;
   border-color: #d2d6db;
 }
+
 
