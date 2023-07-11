@@ -1,0 +1,36 @@
+/* **************************** GENERAL ********************************************** */
+
+/* reset */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: #f6f8f9;
+}
+
+
+/* **************************** HEADER ************************************************* */
+
+header{
+  height: 100px;
+  padding: 20px;
+  background-color: white;
+  
+}
+
+header img{
+  vertical-align:middle;
+}
+
+.nome-logo{
+  font-size: 2.5rem;
+  vertical-align:middle;
+}
+
+/* **************************** MAIN ************************************************** */
+
+
