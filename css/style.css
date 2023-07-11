@@ -15,7 +15,7 @@ body{
 button{
   padding: 5px 10px;
   border-radius: 5%;
-  margin: 20px 50px;
+  margin-top: 20px;
 }
 
 hr{
@@ -64,6 +64,7 @@ main{
 }
 
 .button-task{
+  margin-left: 50px;
   color: white;
   background-color: #47adf1;
   border-color: #47adf1;
@@ -74,5 +75,7 @@ main{
   background-color: white;
   border-color: #d2d6db;
 }
+
+
 
 
