@@ -76,14 +76,22 @@ main{
   border-color: #d2d6db;
 }
 
-.verde{
+.rotondo{
   display: inline-block;
   width: 25px;
   height: 25px;
   text-align: center;
   border-radius:50%;
+}
+
+.verde{
   border: 1px solid greenyellow;
   color: greenyellow;
+}
+
+.rosso{
+  border: 1px solid red;
+  color: red;
 }
 
 
